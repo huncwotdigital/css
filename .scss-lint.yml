@@ -11,7 +11,7 @@ linters:
     enabled: false
 
   ExtendDirective:
-    enabled: true
+    enabled: false
 
   Indentation:
     enabled: true
