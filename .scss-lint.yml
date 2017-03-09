@@ -41,3 +41,6 @@ linters:
   StringQuotes:
     enabled: true
     style: double_quotes
+
+  TransitionAll:
+    enabled: true
