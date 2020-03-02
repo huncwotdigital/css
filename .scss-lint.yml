@@ -13,6 +13,12 @@ linters:
   ExtendDirective:
     enabled: false
 
+  HexLength:
+    enabled: false
+
+  HexNotation:
+    enabled: false
+
   Indentation:
     enabled: true
     allow_non_nested_indentation: false
@@ -37,6 +43,10 @@ linters:
   SingleLinePerProperty:
     enabled: true
     allow_single_line_rule_sets: true
+
+  SpaceBeforeBrace:
+    enabled: true
+    allow_single_line_padding: true
 
   StringQuotes:
     enabled: true
